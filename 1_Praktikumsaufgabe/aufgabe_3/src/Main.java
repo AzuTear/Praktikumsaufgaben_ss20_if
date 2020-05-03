@@ -1,3 +1,5 @@
+/* Minh Bao Vo*/
+
 public class Main {
 
     //create own function to have a better overview
